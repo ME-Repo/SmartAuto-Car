@@ -1,0 +1,24 @@
+
+REQ_CRS_001
+16- Timers in PWM mode
+
+REQ_CRS_002
+17)
+- USART boadrate should be 9600
+- USART stop bit (one stop bit)
+
+REQ_CRS_003
+- Sending f over USART -> means forward
+- Sending b over USART -> means bachward
+- Sending r over USART -> means turn right
+- Sending l over USART -> means turn left
+- Sending s over USART -> means Stop
+
+REQ_CRS_004
+18- object avoidance using ultrasonic sensors 
+
+REQ_CRS_005
+19- car speed should be .5 m/sec
+
+REQ_CRS_06
+Frequency of sending data over 1/100 msec
